@@ -24,8 +24,10 @@ body{
 }
 
 img{
+  flex: 1 0 50%;
   border-bottom-left-radius: 15px;
   border-top-left-radius: 15px;
+  object-fit: cover;
 }
 
 .product-info-container{
