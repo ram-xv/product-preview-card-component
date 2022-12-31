@@ -96,6 +96,15 @@ div.prices > p:nth-child(2){
   justify-content: center;
 }
 
+button:hover{
+  background-color: hsl(158, 45%, 20%);
+}
+
+button:active{
+  background-color: hsl(158, 45%, 20%);
+
+}
+
 svg{
   margin-right: 8px;
 }
