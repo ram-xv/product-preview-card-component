@@ -2,6 +2,10 @@
 
 ![Product preview card component](assets/images/product-preview-card-component.png)
 
+## Link to project
+
+- [Product Card Component](https://product-preview-card-component-pink.vercel.app/)
+
 ## About this project
 
 Your challenge is to build out this product preview card component and get it looking as close to the design as ppossible.
