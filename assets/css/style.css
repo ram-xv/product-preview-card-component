@@ -76,7 +76,7 @@ div.prices > p:nth-child(1){
   color: hsl(158, 36%, 37%);
 }
 
-div.prices > p:nth-child(2){
+.sr-only{
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   text-decoration: line-through;
